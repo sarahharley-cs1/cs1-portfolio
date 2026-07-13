@@ -1,6 +1,6 @@
 # Hello World
 ## Description
-This is my rst Python program. It prints a message to the screen.
+This is my first Python program. It prints a message to the screen.
 ## Skills Practiced:
 - Writing a Python program
 - Using the \print" function
@@ -15,5 +15,7 @@ This is my rst Python program. It prints a message to the screen.
 - As the user for their name
 - Print a personalized greeting
 - Add comments
+## Screenshot
+screenshot.png
 ## Author
 Created by
