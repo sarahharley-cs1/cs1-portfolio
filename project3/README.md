@@ -1,6 +1,6 @@
 # Hello World
 ## Description
-This is my first Python program. It prints a message to the screen.
+This is my first Python program.
 ## Skills Practiced:
 - Writing a Python program
 - Using the \print" function
